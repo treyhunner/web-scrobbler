@@ -33,6 +33,7 @@
       "tabs",
       "notifications",
       "https://ws.audioscrobbler.com/2.0/",
+      "https://libre.fm/2.0/",
       "https://gdata.youtube.com/feeds/api/videos/",
       "http://*/",
       "https://*/"

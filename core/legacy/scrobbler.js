@@ -188,7 +188,7 @@ define([
 	      localStorage.token = xml.find('token').text();
 
 	      // open a tab with token authorization
-	      var url = 'https://www.last.fm/api/auth/?api_key=' + config.apiKey + '&token=' + localStorage.token;
+	      var url = 'https://libre.fm/api/auth/?api_key=' + config.apiKey + '&token=' + localStorage.token;
 	      window.open(url, 'scrobbler-auth');
 	   }
 	}

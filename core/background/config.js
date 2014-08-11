@@ -4,7 +4,7 @@ define(function() {
 		/**
 		 * L.FM API info
 		 */
-		apiURL: 'https://ws.audioscrobbler.com/2.0/?',
+		apiURL: 'https://libre.fm/2.0/?',
 		apiKey: 'd9bb1870d3269646f740544d9def2c95',
 
 		/**

@@ -13,7 +13,7 @@ define([
 
 	var enableLogging = true;
 
-	var apiUrl = 'https://ws.audioscrobbler.com/2.0/';
+	var apiUrl = 'https://libre.fm/2.0/';
 	var apiSecret = '2160733a567d4a1a69a73fad54c564b2';
 
 	/**
